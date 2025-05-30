@@ -40,3 +40,4 @@ https://colab.research.google.com/drive/15-3700xcJlogjW2w_4fwDFiZTH1DTVK6?usp=sh
 
 atividade exel e graficos
 https://fatecspgov-my.sharepoint.com/:x:/r/personal/alan_silva145_fatec_sp_gov_br/Documents/Graf_K_panela_sorvetes_produtos.xlsx%2001.xlsx?d=w5c00112947a04fd5b5a02f984f768e7e&csf=1&web=1&e=Gydbu0&nav=MTVfe0RBRjJDQjk5LTg3OTEtNDg2NC05MDgwLTA1NENGMEEzNzQwMn0
+![image](https://github.com/user-attachments/assets/b6648343-49ca-42a9-b3f4-1e62904fbac3)
