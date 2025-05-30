@@ -3,10 +3,6 @@
 ![image](https://github.com/user-attachments/assets/3bc19505-6b39-4ecc-8295-53e8c55539bc)
 ![image](https://github.com/user-attachments/assets/e8714ff0-f264-49df-9a65-6f9488949d65)
 
-
-
-
-
 ## Projeto 1: Venda de Sorvete 🍨
 ![image](https://github.com/user-attachments/assets/908019d9-cf7f-467a-904d-76219414907f)
 ![image](https://github.com/user-attachments/assets/9c415cad-966b-4071-b125-4cd567ac140a)
@@ -41,3 +37,6 @@ Usaria o modelo com a maior correlação com a variável dependente (consumo).
 
 ## Projeto 3: Venda de casas 🏠
 https://colab.research.google.com/drive/15-3700xcJlogjW2w_4fwDFiZTH1DTVK6?usp=sharing
+
+atividade exel e graficos
+https://fatecspgov-my.sharepoint.com/:x:/r/personal/_fatec_sp_gov_br/Documents/HousePrices_HalfMil%20(1).xlsx?d=wddb5e32106a44b7da3f4c498f2939522&csf=1&web=1&e=1FCmaP
