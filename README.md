@@ -39,4 +39,4 @@ Usaria o modelo com a maior correlação com a variável dependente (consumo).
 https://colab.research.google.com/drive/15-3700xcJlogjW2w_4fwDFiZTH1DTVK6?usp=sharing
 
 atividade exel e graficos
-https://fatecspgov-my.sharepoint.com/:x:/r/personal/_fatec_sp_gov_br/Documents/HousePrices_HalfMil%20(1).xlsx?d=wddb5e32106a44b7da3f4c498f2939522&csf=1&web=1&e=1FCmaP
+https://fatecspgov-my.sharepoint.com/:x:/r/personal/alan_silva145_fatec_sp_gov_br/Documents/Graf_K_panela_sorvetes_produtos.xlsx%2001.xlsx?d=w5c00112947a04fd5b5a02f984f768e7e&csf=1&web=1&e=Gydbu0&nav=MTVfe0RBRjJDQjk5LTg3OTEtNDg2NC05MDgwLTA1NENGMEEzNzQwMn0
