@@ -40,3 +40,4 @@ Se o foco for melhor desempenho estatístico (ex: R²):
 Usaria o modelo com a maior correlação com a variável dependente (consumo).
 
 ## Projeto 3: Venda de casas 🏠
+https://colab.research.google.com/drive/15-3700xcJlogjW2w_4fwDFiZTH1DTVK6?usp=sharing
