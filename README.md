@@ -47,3 +47,7 @@ Grafico de sandalias
 ![image](https://github.com/user-attachments/assets/0c7bb775-ed6e-4015-b637-ba73031d11c9)
 
 
+https://github.com/user-attachments/assets/73d7de1b-d5ab-4f95-bd23-51dc9b6ee4a3
+
+
+
