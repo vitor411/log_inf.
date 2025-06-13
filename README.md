@@ -3,6 +3,14 @@
 ![image](https://github.com/user-attachments/assets/3bc19505-6b39-4ecc-8295-53e8c55539bc)
 ![image](https://github.com/user-attachments/assets/e8714ff0-f264-49df-9a65-6f9488949d65)
 
+atividade 2:
+![image](https://github.com/user-attachments/assets/aa934156-945d-48f7-a14d-37c75ed11e9f)
+
+
+atividade 3:
+![image](https://github.com/user-attachments/assets/5ee2ed03-15cc-4de5-938d-4c3149e698a2)
+
+
 ## Projeto 1: Venda de Sorvete 🍨
 ![image](https://github.com/user-attachments/assets/908019d9-cf7f-467a-904d-76219414907f)
 ![image](https://github.com/user-attachments/assets/9c415cad-966b-4071-b125-4cd567ac140a)
@@ -51,6 +59,11 @@ Grafico de sandalias:
 
 ATIVIDADE POWER APPS:
 https://github.com/user-attachments/assets/73d7de1b-d5ab-4f95-bd23-51dc9b6ee4a3
+
+
+ATIVIDADES LINKS DE IMAGEM:
+
+
 
 
 
