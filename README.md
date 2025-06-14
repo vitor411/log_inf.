@@ -60,8 +60,12 @@ Grafico de sandalias:
 ATIVIDADE POWER APPS:
 https://github.com/user-attachments/assets/73d7de1b-d5ab-4f95-bd23-51dc9b6ee4a3
 
+parte 2
 
-ATIVIDADES LINKS DE IMAGEM:
+![image](https://github.com/user-attachments/assets/043b296d-4456-4adc-b51c-fa3e31cfbf52)
+![image](https://github.com/user-attachments/assets/178839f7-d2f4-4081-a29e-e0a77c9fa254)
+
+
 
 
 
